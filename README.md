@@ -3,7 +3,7 @@ Hi 👋 My name is Albert Shubin
 
 * 🌍  I'm based in Saratov
 * ✉️  You can contact me at [albert.shubin@gmail.com](mailto:albert.shubin@gmail.com)
-* 🚀  I'm currently working on [Gazprom UGS](http://ugs.gazprom.ru/)
+* 🚀  I'm currently working on [Sovcombank technologies](https://sovcombank.it/)
 
 ### Skills
 
